@@ -1,0 +1,10 @@
+behave==1.2.6
+certifi
+chardet
+idna
+parse
+parse-type
+requests
+selenium
+six
+urllib3
